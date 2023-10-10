@@ -40,7 +40,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Parsing  the JSON data was a challenge for me.
 
 ## License
 
